@@ -1,0 +1,6 @@
+@KdpRentability_HostAddress = http://localhost:5169
+
+GET {{KdpRentability_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
